@@ -1,5 +1,5 @@
 #ASKISI 6
-
+# oi bobes einai to 9
 import random
 
 w = int(input("Enter width, the number must be greater than 1\n"))
